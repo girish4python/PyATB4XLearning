@@ -17,3 +17,12 @@ print(f"Power of number is {Power}")
 
 sub = a - b
 print(f"sub is {sub}")
+
+mul = a * b
+print(f"mul is {mul}")
+
+sum = a + b
+print(f"sum is {sum}")
+
+div = a/b
+print(f"div is {div}")
